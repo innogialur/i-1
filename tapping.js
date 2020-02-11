@@ -28,7 +28,7 @@ window.onload = function () {
         }
         function PEREHOD_PO_SSILKE() {
 
-            location.href = 'http://axdsz.pro/?target=-7EBNQCgQAAANhCAO9VgAFAQEREQoRCQoRDUIRDRIAAX9hZGNvbWJvATE&subacc=kuslij&_fbid=181713496439934';
+            location.href = 'http://zaebumba8-trek.ru/3HSXt1';
 
 
         }
