@@ -11,7 +11,7 @@ body {
     position: absolute;
     -webkit-filter: blur(7px);
     filter: blur(7px);
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -221,14 +221,14 @@ body {
 
 @media screen and (max-width: 170em) {
     .textrobot a {
-        font-size:1.5em;
+        font-size:1.8em;
         margin-left: 30px
     }
 }
 
 @media screen and (max-width: 50em) {
     .textrobot a {
-        font-size:1.3em;
+        font-size:1.6em;
         margin-left: 25px;
     }
     
@@ -242,9 +242,8 @@ body {
  
 @media screen and (max-width: 40em) {
     .textrobot a {
-        font-size:1em;
+        font-size:1.4em;
         margin-left: 20px;
-   
     }
     
     .capcha {
@@ -292,8 +291,8 @@ body {
     }
     
     .textrobot a {
-        font-size:1em;
-        height: 40%;
+        font-size:1.2em;
+        height: 50%;
         margin-left: 10px;
     }
     .animGoogleCapcha {
@@ -327,13 +326,6 @@ body {
   
 }
 
-@media screen and (max-width: 25em) {
-    .textrobot a {
-        font-size:0.8em;
-        height: 30%;
-        margin-left: 10px;
-    }
-}
 .treang {
     width: 100px;
     height: 100px;
@@ -361,10 +353,10 @@ body {
     transform: rotate(45deg);
     border-bottom: 7px solid rgb(68,149,69);
     border-right: 7px solid rgb(68,149,69);
-        -webkit-transition: all 0.7s !important;
-     -moz-transition: all 0.7s !important;
-     -o-transition: all 0.7s !important;
-     transition: all 0.7s !important;
+        -webkit-transition: all 0.7s;
+     -moz-transition: all 0.7s;
+     -o-transition: all 0.7s;
+     transition: all 0.7s;
 }
 
 @keyframes eye {
