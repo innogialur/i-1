@@ -28,12 +28,9 @@ window.onload = function () {
         }
         function PEREHOD_PO_SSILKE() {
 
-            location.href = 'http://zaebumba8-trek.ru/3HSXt1';
-
+            location.href = 'http://zaebumba8-trek.ru/Y1GF61';
 
         }
-        
-
     }
 }
 
