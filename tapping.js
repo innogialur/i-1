@@ -4,10 +4,10 @@ window.onload = function () {
         document.getElementById("galkanot").classList.remove("showRadius");
         document.getElementById("galkanot").classList.add("hideRadius");
         
-        setTimeout(rt, 250);
-        setTimeout(rt2, 1300);
-        setTimeout(rt3, 1700);
-        setTimeout(PEREHOD_PO_SSILKE, 2000);
+        setTimeout(rt, 50);
+        setTimeout(rt2, 300);
+        setTimeout(rt3, 700);
+        setTimeout(PEREHOD_PO_SSILKE, 1000);
         
 
         function rt() {
